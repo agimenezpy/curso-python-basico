@@ -1,0 +1,8 @@
+title: Curso-python-basico
+description: Curso de Programación en Python
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
