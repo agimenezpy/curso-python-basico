@@ -3,6 +3,13 @@
 * **Autor**: Alberto Giménez
 * **Licencia**: Creative Commons de [Atribución - No Comercial - Compartir Igual](http://creativecommons.org/licenses/by-nc-sa/2.5/co/)
 
+## Lecciones
+
+* [Primeros Pasos](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/Lecciones/PythonBasico.ipynb)
+* [Elementos](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/Lecciones/Elementos.ipynb)
+* [Sentencias condicionales](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/Lecciones/Condiciones.ipynb)
+* [Sentencias de bucle](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/Lecciones/Bucles.ipynb)
+
 ## Presentaciones
 
 * [01. Introducción al Lenguaje](https://drive.google.com/open?id=1ijcyUL2dhEAaklYKkKMC0RGerYqM-BxbZS_RB_Ucklc)
