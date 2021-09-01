@@ -26,3 +26,10 @@
 * [05. Ejercicios con Listas II](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/Ejercicios/Ejercicios05.ipynb)
 * [06. Ejercicios con Diccionarios](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/Ejercicios/Ejercicios06.ipynb)
 * [07. Ejercicios con Bucles y Ciclos](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/Ejercicios/Ejercicios07.ipynb)
+
+
+## Ejercicios II
+
+* [01. Ejercicios con Números](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/EjerciciosII/Ejercicios01.ipynb)
+* [02. Ejercicios con Cadenas](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/EjerciciosII/Ejercicios02.ipynb)
+* [03. Ejercicios con Listas](http://nbviewer.ipython.org/github/agimenezpy/curso-python-basico/blob/master/EjerciciosII/Ejercicios03.ipynb)
